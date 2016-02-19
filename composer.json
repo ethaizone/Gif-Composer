@@ -1,0 +1,17 @@
+{
+    "name": "ethaizone/gif_creator",
+    "type": "project",
+    "license": "Commercial",
+    "authors": [
+        {
+            "name": "EThaiZone",
+            "email": "ethaizone@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Gif\\": "Gif"
+        }
+    }
+}
